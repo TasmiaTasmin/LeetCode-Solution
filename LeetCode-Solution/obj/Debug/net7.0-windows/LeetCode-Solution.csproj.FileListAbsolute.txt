@@ -1,0 +1,16 @@
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\bin\Debug\net7.0-windows\LeetCode-Solution.exe
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\bin\Debug\net7.0-windows\LeetCode-Solution.deps.json
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\bin\Debug\net7.0-windows\LeetCode-Solution.runtimeconfig.json
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\bin\Debug\net7.0-windows\LeetCode-Solution.dll
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\bin\Debug\net7.0-windows\LeetCode-Solution.pdb
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\LeetCode_Solution.LeetCodeSolutionList.resources
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\LeetCode-Solution.csproj.GenerateResource.cache
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\LeetCode-Solution.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\LeetCode-Solution.AssemblyInfoInputs.cache
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\LeetCode-Solution.AssemblyInfo.cs
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\LeetCode-Solution.csproj.CoreCompileInputs.cache
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\LeetCode-Solution.dll
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\refint\LeetCode-Solution.dll
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\LeetCode-Solution.pdb
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\LeetCode-Solution.genruntimeconfig.cache
+E:\GitHub\LeetCode-Solution\LeetCode-Solution\obj\Debug\net7.0-windows\ref\LeetCode-Solution.dll
