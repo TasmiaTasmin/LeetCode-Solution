@@ -10,13 +10,13 @@ public class PascalsTriangle
             return triangle;
         }
 
-        //Add Fist Row
-
         triangle.Add(new List<int> { 1 });
         for (int i = 1; i < rowNumber; i++)
         {
             List<int> CurrentRow = new List<int>();
-            List<int> PreviousRow = triangle[i - 1];
+            IList<int> PreviousRow = triangle[i - 1];
+
+            CurrentRow.Add(1);
 
             for (int j = 1; j < PreviousRow.Count; j++)
             {
@@ -24,6 +24,7 @@ public class PascalsTriangle
             }
 
             CurrentRow.Add(1); //Last Element is always 1
+            triangle.Add(CurrentRow);
         }
         return triangle;
     }

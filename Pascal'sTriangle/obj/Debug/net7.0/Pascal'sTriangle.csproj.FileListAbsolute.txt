@@ -1,0 +1,5 @@
+E:\GitHub\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.AssemblyInfoInputs.cache
+E:\GitHub\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.AssemblyInfo.cs
+E:\GitHub\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.csproj.CoreCompileInputs.cache
+E:\GitHub\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.sourcelink.json

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\LeetCode-Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71EB0E06-7629-4474-9C7A-74839DC56987}|Pascal\u0027sTriangle\\Pascal\u0027sTriangle.csproj|e:\\github\\leetcode-solution\\pascal\u0027striangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EB0E06-7629-4474-9C7A-74839DC56987}|Pascal\u0027sTriangle\\Pascal\u0027sTriangle.csproj|solutionrelative:pascal\u0027striangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EB0E06-7629-4474-9C7A-74839DC56987}|Pascal\u0027sTriangle\\Pascal\u0027sTriangle.csproj|e:\\github\\leetcode-solution\\pascal\u0027striangle\\pascalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EB0E06-7629-4474-9C7A-74839DC56987}|Pascal\u0027sTriangle\\Pascal\u0027sTriangle.csproj|solutionrelative:pascal\u0027striangle\\pascalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F595F57-EFE1-4C0E-8412-C3E655062D24}|FizzBuzz\\FizzBuzz.csproj|e:\\github\\leetcode-solution\\fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F595F57-EFE1-4C0E-8412-C3E655062D24}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\LeetCode-Solution\\FizzBuzz\\Program.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Program.cs",
+              "ToolTip": "E:\\GitHub\\LeetCode-Solution\\FizzBuzz\\Program.cs",
+              "RelativeToolTip": "FizzBuzz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:46:08.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\LeetCode-Solution\\Pascal\u0027sTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "Pascal\u0027sTriangle\\Program.cs",
+              "ToolTip": "E:\\GitHub\\LeetCode-Solution\\Pascal\u0027sTriangle\\Program.cs",
+              "RelativeToolTip": "Pascal\u0027sTriangle\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:39:27.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PascalService.cs",
+              "DocumentMoniker": "E:\\GitHub\\LeetCode-Solution\\Pascal\u0027sTriangle\\PascalService.cs",
+              "RelativeDocumentMoniker": "Pascal\u0027sTriangle\\PascalService.cs",
+              "ToolTip": "E:\\GitHub\\LeetCode-Solution\\Pascal\u0027sTriangle\\PascalService.cs",
+              "RelativeToolTip": "Pascal\u0027sTriangle\\PascalService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:39:24.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
