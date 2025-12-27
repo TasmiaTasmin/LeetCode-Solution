@@ -32,6 +32,3 @@ foreach (var item in array)
 {
     Console.WriteLine(item);
 }
-
-
-

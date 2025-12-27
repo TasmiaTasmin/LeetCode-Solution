@@ -61,9 +61,10 @@ public class Solution
             int differ = target - n;
             if (keyValuePairs.Keys.Contains(differ))
             {
-                return new int[] {2, 3 };
+                return new int[] { keyValuePairs[differ], i};
             }
-            keyValuePairs.Add(differ, n);
+            if(!keyValuePairs.Keys.Contains(n))
+                keyValuePairs.Add(i, n);
 
         }
         return null;
