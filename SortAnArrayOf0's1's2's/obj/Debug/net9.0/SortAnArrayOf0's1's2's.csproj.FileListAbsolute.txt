@@ -1,0 +1,15 @@
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\bin\Debug\net9.0\SortAnArrayOf0's1's2's.exe
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\bin\Debug\net9.0\SortAnArrayOf0's1's2's.deps.json
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\bin\Debug\net9.0\SortAnArrayOf0's1's2's.runtimeconfig.json
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\bin\Debug\net9.0\SortAnArrayOf0's1's2's.dll
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\bin\Debug\net9.0\SortAnArrayOf0's1's2's.pdb
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\SortAnArrayOf0's1's2's.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\SortAnArrayOf0's1's2's.AssemblyInfoInputs.cache
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\SortAnArrayOf0's1's2's.AssemblyInfo.cs
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\SortAnArrayOf0's1's2's.csproj.CoreCompileInputs.cache
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\SortAnArrayOf0's1's2's.sourcelink.json
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\SortAnArrayOf0's1's2's.dll
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\refint\SortAnArrayOf0's1's2's.dll
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\SortAnArrayOf0's1's2's.pdb
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\SortAnArrayOf0's1's2's.genruntimeconfig.cache
+E:\GitHub\LeetCode-Solution\SortAnArrayOf0's1's2's\obj\Debug\net9.0\ref\SortAnArrayOf0's1's2's.dll
