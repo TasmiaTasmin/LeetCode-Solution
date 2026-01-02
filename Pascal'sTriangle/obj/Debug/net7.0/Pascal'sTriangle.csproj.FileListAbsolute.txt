@@ -3,3 +3,8 @@ E:\GitHub\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.A
 E:\GitHub\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.AssemblyInfo.cs
 E:\GitHub\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.csproj.CoreCompileInputs.cache
 E:\GitHub\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.sourcelink.json
+D:\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.AssemblyInfoInputs.cache
+D:\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.AssemblyInfo.cs
+D:\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.csproj.CoreCompileInputs.cache
+D:\LeetCode-Solution\Pascal'sTriangle\obj\Debug\net7.0\Pascal'sTriangle.sourcelink.json
